@@ -4,7 +4,7 @@
 
 ### À propos de moi
 
-🚀 Passionné par la blockchain et les technologies web, j'ai commencé à coder en septembre 2022 après avoir été entrepreneur et chef d'entreprise dans différents domaines. Ma passion pour la blockchain a été le moteur de ma transition vers le développement.
+🚀 Passionné par les technologies du web, j'ai commencé à coder en septembre 2022 après avoir été entrepreneur et chef d'entreprise dans différents domaines. Ma passion pour le code a été le moteur de ma transition vers le développement.
 
 🌱 Actuellement, je me plonge dans de nouveaux projets et technologies pour apprendre et évoluer. Mes expériences antérieures m'ont apporté une compréhension approfondie des besoins des utilisateurs, des défis commerciaux et de la gestion de projet, ce qui m'aide à aborder le développement d'un point de vue holistique et orienté utilisateur.
 
