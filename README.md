@@ -1,12 +1,15 @@
 # Salut, je suis Kassim Bouzoubaa! 👋
 
-## Développeur Full Stack & Blockchain | Passionné par JavaScript, Python et Solidity
+## Développeur Full Stack
 
 ### À propos de moi
 
-🚀 Passionné par les technologies du web, j'ai commencé à coder en septembre 2022 après avoir été entrepreneur et chef d'entreprise dans différents domaines. Ma passion pour le code a été le moteur de ma transition vers le développement.
+Développeur full-stack depuis 2022, je suis passionné par la création d’applications web à fort impact, en combinant développement, performance et stratégie produit.
+Spécialisé en Next.js et React, j’accorde une importance particulière à l’écriture d’un code propre, maintenable et réutilisable.
 
-🌱 Actuellement, je me plonge dans de nouveaux projets et technologies pour apprendre et évoluer. Mes expériences antérieures m'ont apporté une compréhension approfondie des besoins des utilisateurs, des défis commerciaux et de la gestion de projet, ce qui m'aide à aborder le développement d'un point de vue holistique et orienté utilisateur.
+Mon approche ne s’arrête pas au code : je m’intéresse aussi à tout ce qui permet de faire vivre et grandir un produit — DevOps, SEO technique, web analytics, tracking, et optimisation des conversions — pour concevoir des applications solides, mesurables et orientées résultats.
+
+Mon objectif est de progresser continuellement, et de construire des produits web concrets, utiles et bien conçus.
 
 ### Où me trouver
 
@@ -16,7 +19,7 @@
 
 ### Compétences
 
-- JavaScript (React, Node.js)
+- JavaScript
 - Python
 - Solidity
 
